@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 🔭 I’m currently having summer vacation!
-### 🌱 I’m currently learning C++, ML
+### 🔭 I’m currently preparing for my FINALs
+### 🌱 I’m currently learning Python
 ### 💬 Ask me about ZJU and school life
+### 🎉 Happy New Year and Welcome to 2024!
 
 ## My GitHub Stats
 <div>
