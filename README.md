@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 🔭 I’m currently having winter vacation!
-### 🌱 I’m currently learning Python, Matlab
+### 🔭 I’m currently in ??!
+### 🌱 I’m currently learning Python
 ### 💬 Ask me about ZJU and school life
 ### 🎉 Happy New Year and Welcome to 2024!
 
