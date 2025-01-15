@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 🔭 I’m currently having summer vacation!
-### 🌱 I’m currently learning Python, SICP
+### 🔭 I’m currently having winter vacation!
+### 🌱 I’m currently learning NOTHING!!
 ### 💬 Ask me about ZJU and school life
-### 🎉 Happy New Year and Welcome to 2024!
+### 🎉 Happy New Year and Welcome to 2025!
 
 ## My GitHub Stats
 <div>
