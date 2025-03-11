@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 🔭 I’m currently having winter vacation!
-### 🌱 I’m currently learning NOTHING!!
+### 🔭 I’m currently in 25-Spring Semester!
+### 🌱 I’m currently learning C++!!
 ### 💬 Ask me about ZJU and school life
 ### 🎉 Happy New Year and Welcome to 2025!
 
