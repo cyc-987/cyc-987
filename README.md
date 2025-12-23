@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### 🔭 I’m currently in 26-Winter Semester!
 ### 🌱 I’m currently learning Nothing!!
 ### 💬 Ask me about ZJU and school life
-### 🎉 Happy New Year and Welcome to 2025!
+### 🎉 Happy New Year and Welcome to 2026!
 
 ## My GitHub Stats
 
